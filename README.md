@@ -43,14 +43,14 @@ Multi-armed bandit problems are a cornerstone of decision-making under uncertain
    git clone https://github.com/username/hierarchical-bayesian-bandits.git
    cd hierarchical-bayesian-bandits ```
 
-   Run the Linear UCB model:
-   `python linear_ucb.py`
+# Run the Linear UCB model
+python linear_ucb.py
 
-   Run the Linear UCB model with a slider for parameters:
-   `python linear_slider.ipynb`
+# Run the Linear UCB model with a slider for parameters
+python linear_slider.ipynb
 
-   Run the Multi-client model:
-   `python model2.ipynb` 
+# Run the Multi-client model
+python model2.ipynb
 
    
 ## Acknowledgments
