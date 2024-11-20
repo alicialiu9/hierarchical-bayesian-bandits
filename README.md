@@ -39,7 +39,6 @@ Multi-armed bandit problems are a cornerstone of decision-making under uncertain
 ## How to Run
 
 1. **Clone the Repository**:  `https://github.com/alicialiu9/hierarchical-bayesian-bandits.git`  
-   `git clone https://github.com/username/hierarchical-bayesian-bandits.git`
    `cd hierarchical-bayesian-bandits`
 
 2. **Run the Linear UCB model**: `python linear_ucb.py`
